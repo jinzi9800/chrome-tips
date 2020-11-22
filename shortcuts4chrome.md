@@ -1,0 +1,129 @@
+---Ctrl+N	
+#Opens a new window.  
+
+---Ctrl+T	
+#Opens a new tab.
+
+---Ctrl+Shift+N	
+#Opens a new window in incognito mode.
+
+---Press Ctrl+O, then select file.	Opens a file from your computer in Google Chrome.
+---Press Ctrl and click a link. Or click a link with your middle mouse button (or mousewheel).	Opens the link in a new tab in the background .
+---Press Ctrl+Shift and click a link. Or press Shift and click a link with your middle mouse button (or mousewheel).	Opens the link in a new tab and switches to the newly opened tab.
+---Press Shift and click a link.	Opens the link in a new window.
+---Ctrl+Shift+T	Reopens the last tab you've closed. Google Chrome remembers the last 10 tabs you've closed.
+---Drag a link to a tab.	Opens the link in the tab.
+---Drag a link to a blank area on the tab strip.	Opens the link in a new tab.
+---Drag a tab out of the tab strip.	Opens the tab in a new window.
+---Drag a tab out of the tab strip and into an existing window.	Opens the tab in the existing window.
+---Press Esc while dragging a tab.	Returns the tab to its original position.
+---Ctrl+1 through Ctrl+8	Switches to the tab at the specified position number on the tab strip.
+---Ctrl+9	Switches to the last tab.
+---Ctrl+Tab or Ctrl+PgDown	Switches to the next tab.
+---Ctrl+Shift+Tab or Ctrl+PgUp	Switches to the previous tab.
+---Alt+F4 or Ctrl + Shift + W	Closes the current window.
+---Ctrl+W or Ctrl+F4	Closes the current tab or pop-up.
+---Click a tab with your middle mouse button (or mousewheel).	Closes the tab you clicked.
+---Right-click, or click and hold either the Back or Forward arrow in the browser toolbar.	Displays your browsing history in the tab.
+---Press Backspace, or Alt and the left arrow together.	Goes to the previous page in your browsing history for the tab.
+---Press Shift+Backspace, or Alt and the right arrow together.	Goes to the next page in your browsing history for the tab.
+---Press Ctrl and click either the Back arrow, Forward arrow, or Go button in the toolbar. Or click either button with your middle mouse button (or mousewheel).	Opens the button destination in a new tab in the background.
+---Double-click the blank area on the tab strip.	Maximizes or minimizes the window.
+---Alt+Home	Opens your homepage in your current
+--- 
+---
+--- 
+---
+---Google Chrome feature shortcuts
+--- 
+---
+--- 
+---
+---Alt+F or Alt+E or F10	Opens the Chrome menu Chrome menu, which lets you customize and control settings in Google Chrome.
+---Ctrl+Shift+B	Toggles the bookmarks bar on and off.
+---Ctrl+H	Opens the History page.
+---Ctrl+J	Opens the Downloads page.
+---Shift+Esc	Opens the Task Manager.
+---Shift+Alt+T	Sets focus on the first tool in the browser toolbar. You can then use the following shortcuts to move around in the toolbar:
+---
+---Press Tab, Shift+Tab, Home, End, right arrow, and left arrow to move focus to different items in the toolbar.
+---
+---Press Space or Enter to activate toolbar buttons, including page actions and browser actions.
+---
+---Press Shift+F10 to bring up any associated context menu (e.g. browsing history for the Back button).
+---
+---Press Esc to return focus from the toolbar back to the page.
+---
+---
+---
+---
+--- 
+--- 
+--- 
+---F6 or Shift+F6	Switches focus to the next keyboard-accessible pane. Panes include:
+---
+---Highlights the URL in the address bar
+---
+---Bookmarks bar (if visible)
+---
+---The main web content (including any infobars)
+---
+---Downloads bar (if visible)
+---
+---
+---
+---
+--- 
+--- 
+--- 
+---Ctrl+Shift+J	Opens Developer Tools.
+---Ctrl+Shift+Delete	Opens the Clear Browsing Data dialog.
+---F1	Opens the Help Center in a new tab (our favorite).
+---Ctrl+Shift+M	Switch between multiple users.
+--- 
+---
+--- 
+---
+---Address bar shortcuts
+--- 
+---
+---Type a search term, then press Enter.	Performs a search using your default search engine.
+---Type a search engine keyword, press Space, type a search term, and press Enter.	Performs a search using the search engine associated with the keyword.
+---Begin typing a search engine URL, press Tab when prompted, type a search term, and press Enter.	Performs a search using the search engine associated with the URL.
+---Ctrl+Enter	Adds www. and .com to your input in the address bar and open the resulting URL.
+---Type a URL, then press Alt+Enter.	Opens the URL in a new tab.
+---Ctrl+L or Alt+D	Highlights the URL.
+---Ctrl+K or Ctrl+E	Places a '?' in the address bar. Type a search term after the question mark to perform a search using your default search engine.
+---Press Ctrl and the left arrow together.	Moves your cursor to the preceding key term in the address bar
+---Press Ctrl and the right arrow together.	Moves your cursor to the next key term in the address bar
+---Ctrl+Backspace	Deletes the key term that precedes your cursor in the address bar
+---Select an entry in the address bar drop-down menu with your keyboard arrows, then press Shift+Delete.	Deletes the entry from your browsing history, if possible.
+---Click an entry in the address bar drop-down menu with your middle mouse button (or mousewheel).	Opens the entry in a new tab in the background.
+---Press Page Up or Page Down when the address bar drop-down menu is visible.	Selects the first or last entry in the drop-down menu.
+--- 
+---
+---Webpage shortcuts
+--- 
+---
+---Ctrl+P	Prints your current page.
+---Ctrl+S	Saves your current page.
+---F5 or Ctrl+R	Reloads your current page.
+---Esc	Stops the loading of your current page.
+---Ctrl+F	Opens the find bar.
+---Ctrl+G or F3	Finds the next match for your input in the find bar.
+---Ctrl+Shift+G, Shift+F3, or Shift+Enter	Finds the previous match for your input in the find bar.
+---Click the middle mouse button (or mousewheel).	Activates auto-scrolling. As you move your mouse, the page automatically scrolls according to the direction of the mouse.
+---Ctrl+F5 or Shift+F5	Reloads your current page, ignoring cached content.
+---Press Alt and click a link.	Downloads the target of the link.
+---Ctrl+U	Opens the source of your current page.
+---Drag a link to bookmarks bar	Saves the link as a bookmark.
+---Ctrl+D	Saves your current webpage as a bookmark.
+---Ctrl+Shift+D	Saves all open pages as bookmarks in a new folder.
+---F11	Opens your page in full-screen mode. Press F11 again to exit full-screen.
+---Ctrl and +, or press Ctrl and scroll your mousewheel up.	Enlarges everything on the page.
+---Ctrl and -, or press Ctrl and scroll your mousewheel down.	Makes everything on the page smaller.
+---Ctrl+0	Returns everything on the page to normal size.
+---Space bar	Scrolls down the web page.
+---Home	Goes to the top of the page.
+---End	Goes to the bottom of the page.
+---Press Shift and scroll your mousewheel.	Scrolls horizontally on the page.
