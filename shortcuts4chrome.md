@@ -1,3 +1,5 @@
+编辑快捷键
+在窗口直接打“?”
 ---Ctrl+N	
 #Opens a new window.  
 
